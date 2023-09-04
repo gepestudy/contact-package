@@ -1,0 +1,19 @@
+{
+    "name": "gepe/contact",
+    "description": "tuts from bitfumes for createing package in laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gepe\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilhamgepe",
+            "email": "gepedevelop@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
